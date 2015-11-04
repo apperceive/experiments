@@ -1,4 +1,4 @@
--- clear user picture fid if no coorespondng file 
+-- clear Drupal 7 user picture fid if no coorespondng file 
 
 UPDATE users 
   SET picture = 0 
