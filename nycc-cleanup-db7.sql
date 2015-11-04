@@ -1,4 +1,4 @@
--- delete private files and 
+-- clear user picture fid if no coorespondng file 
 
 UPDATE users 
   SET picture = 0 
