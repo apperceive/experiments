@@ -1,5 +1,5 @@
 select * from users;
 
-select * from file_managed;
+select fid, uid, filename, uri, filemime, filesize, status, tiestamp from file_managed;
 
 
